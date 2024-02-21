@@ -1,0 +1,1 @@
+# gallery-zoom-text-hover-effect
